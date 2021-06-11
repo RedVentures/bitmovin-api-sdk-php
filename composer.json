@@ -1,7 +1,7 @@
 {
     "name": "rv/bitmovin-api-sdk-php",
     "description": "This is the Bitmovin API SDK for PHP",
-    "version": "1.74.0",
+    "version": "1.75.0",
     "authors": [
         {
             "name": "Bitmovin Inc",
