@@ -1,5 +1,5 @@
 {
-    "name": "bitmovin/bitmovin-api-sdk-php",
+    "name": "rv/bitmovin-api-sdk-php",
     "description": "This is the Bitmovin API SDK for PHP",
     "version": "1.74.0",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": "^7.1",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.0",
         "nesbot/carbon": "^2.17"
     },
     "require-dev": {
